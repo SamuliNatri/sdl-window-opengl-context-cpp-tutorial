@@ -1,0 +1,2 @@
+- [Youtube](https://www.youtube.com/watch?v=fvXv7JHJQcw)
+- [Blog](https://samulinatri.com/blog/sdl-window-opengl-context-cpp-tutorial/)
